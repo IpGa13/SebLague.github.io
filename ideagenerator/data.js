@@ -64,6 +64,7 @@ educational
 text-adventure
 typing
 sandbox
+simulator
 programming
 [boat, car, kart, bike, helicopter] racing
 [theme-park, business-management, city-management, farming] simulation
@@ -74,6 +75,7 @@ programming
 #genre_modifier:
 open-world
 turn-based
+realistic
 sci-fi
 fantasy
 #end
